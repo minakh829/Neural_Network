@@ -1,0 +1,1 @@
+In machine learning the feature will be definned but deep learing will find the feature by it self
